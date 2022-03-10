@@ -1,0 +1,14 @@
+/* 
+  Base.strings
+  Shape
+
+  Created by Raul Mantilla on 6/03/22.
+  
+*/
+"breeds" = "Breeds";
+"favorites" = "Favorites";
+"Filter" = "Filter";
+"error_network_response" = "Can't load the information, try again";
+"try_reload_data" = "Reload";
+"dismiss_alert_window" = "Cancel";
+"done" = "Done";
